@@ -42,17 +42,6 @@ Let's Study is a simple Android application designed to test users' knowledge of
 3. **Results**:
    - The results screen retrieves the score and total questions from the quiz screen and displays them in a `TextView`.
 
-## File Structure
-## How to Run
-1. Clone the repository to your local machine.
-2. Open the project in Android Studio.
-3. Build and run the app on an emulator or physical device.
-
-## Dependencies
-- **Kotlin**: Used for app development.
-- **AndroidX**: For modern Android development components.
-- **ConstraintLayout**: For responsive UI design.
-
 ## Future Improvements
 - Add more questions to the quiz.
 - Include a timer for each question.
