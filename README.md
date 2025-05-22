@@ -47,3 +47,5 @@ Let's Study is a simple Android application designed to test users' knowledge of
 - Include a timer for each question.
 - Add a leaderboard to track high scores.
 
+## Link to repository 
+
