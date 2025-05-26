@@ -49,3 +49,5 @@ Let's Study is a simple Android application designed to test users' knowledge of
 
 ## Link to repository 
 https://github.com/Mohomi21/IMADAssignment2
+## YouTube Video Link
+https://youtu.be/2m8Qq51HJvE
