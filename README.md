@@ -17,6 +17,9 @@ Let's Study is a simple Android application designed to test users' knowledge of
 ### 1. Welcome Screen
 - Displays a welcome message.
 - Includes a "Next" button to navigate to the quiz screen.
+- Code of screen img:
+- ![Screenshot 2025-06-19 122856](https://github.com/user-attachments/assets/b27edf2a-3fd9-4e48-8a89-ae5a08012a28)
+
 
 ### 2. Quiz Screen
 - Displays one question at a time.
